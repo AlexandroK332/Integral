@@ -8,12 +8,6 @@ struct Res
 {
     double Integ = 0;
     double pogr = 0;
-   // Res operator=(Res a)
-    //{
-    //    Integ = a.Integ;
-    //    pogr = a.pogr;
-
-   // }
 };
 class Function
 
